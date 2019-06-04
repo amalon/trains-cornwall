@@ -8141,6 +8141,94 @@
        r="11.999995"
        gradientTransform="matrix(1,0,0,0.29166679,0,379.31225)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#GreyFill"
+       id="radialGradient7817-72-8-48"
+       cx="103"
+       cy="536.50031"
+       fx="103"
+       fy="536.50031"
+       r="12"
+       gradientTransform="matrix(1,0,0,0.29169198,0,380.00747)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#GreyFill"
+       id="radialGradient10946"
+       cx="103"
+       cy="536.50031"
+       fx="103"
+       fy="536.50031"
+       r="12"
+       gradientTransform="matrix(1,0,0,0.29169198,0,380.00747)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#GreyFill"
+       id="radialGradient10974"
+       cx="103"
+       cy="536.50031"
+       fx="103"
+       fy="536.50031"
+       r="12"
+       gradientTransform="matrix(1,0,0,0.29169198,0,380.00747)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#GreyFill"
+       id="radialGradient10990"
+       cx="103"
+       cy="536.50031"
+       fx="103"
+       fy="536.50031"
+       r="12"
+       gradientTransform="matrix(1,0,0,0.29169198,0,380.00747)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#GreyFill"
+       id="radialGradient7817-72-8-17"
+       cx="103"
+       cy="536.50031"
+       fx="103"
+       fy="536.50031"
+       r="12"
+       gradientTransform="matrix(1,0,0,0.29169198,0,380.00747)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#GreyFill"
+       id="radialGradient10946-1"
+       cx="103"
+       cy="536.50031"
+       fx="103"
+       fy="536.50031"
+       r="12"
+       gradientTransform="matrix(1,0,0,0.29169198,0,380.00747)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#GreyFill"
+       id="radialGradient10974-8"
+       cx="103"
+       cy="536.50031"
+       fx="103"
+       fy="536.50031"
+       r="12"
+       gradientTransform="matrix(1,0,0,0.29169198,0,380.00747)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#GreyFill"
+       id="radialGradient10990-5"
+       cx="103"
+       cy="536.50031"
+       fx="103"
+       fy="536.50031"
+       r="12"
+       gradientTransform="matrix(1,0,0,0.29169198,0,380.00747)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -9162,9 +9250,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.48540878px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fefee9;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">St. Ives</tspan>
     </text>
     <text
-       inkscape:transform-center-y="0.62519437"
-       inkscape:transform-center-x="1.983471"
-       transform="matrix(1.0552214,0.25121367,-0.19602281,0.90100182,0,0)"
+       inkscape:transform-center-y="-0.67095231"
+       inkscape:transform-center-x="2.2503467"
+       transform="matrix(0.91573087,0.58140991,-0.47897001,0.78791938,2.8267338,-70.365744)"
        id="text15531"
        y="224.51137"
        x="130.30632"
@@ -9177,7 +9265,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.48540878px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fefee9;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">St. Mary's</tspan>
     </text>
     <text
-       transform="matrix(1.0845821,-0.01679841,0.03224881,0.92151465,0,0)"
+       transform="matrix(1.0273959,-0.3479342,0.31273557,0.86742475,-25.325912,23.989525)"
        id="text15535"
        y="188.28952"
        x="28.516327"
@@ -9670,29 +9758,29 @@
     <text
        font-size="40.64"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.48540878px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.35600001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="130.30632"
-       y="224.51137"
+       x="98.830475"
+       y="158.43178"
        id="text4092"
-       transform="matrix(1.0552214,0.25121367,-0.19602281,0.90100181,0,0)"
-       inkscape:transform-center-x="1.983471"
-       inkscape:transform-center-y="0.62519437">
+       transform="matrix(0.91573087,0.58140991,-0.47897001,0.78791937,0,0)"
+       inkscape:transform-center-x="2.2503511"
+       inkscape:transform-center-y="-0.67095315">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.48540878px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.35600001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="130.30632"
-         y="224.51137"
+         x="98.830475"
+         y="158.43178"
          id="tspan4090">St. Mary's</tspan>
     </text>
     <text
        font-size="40.64"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.48540878px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.35600001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="28.516327"
-       y="188.28952"
+       x="-0.95437092"
+       y="204.12451"
        id="text4108"
-       transform="matrix(1.0845821,-0.01679841,0.03224881,0.92151464,0,0)">
+       transform="matrix(1.0273959,-0.3479342,0.31273556,0.86742473,0,0)">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.48540878px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.35600001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="28.516327"
-         y="188.28952"
+         x="-0.95437092"
+         y="204.12451"
          id="tspan4106">Tresco</tspan>
     </text>
     <text
@@ -12359,7 +12447,7 @@
        id="use10040"
        width="100%"
        height="100%"
-       transform="rotate(-60,-256.79365,545.52732)" />
+       transform="rotate(-83.12974,-156.94811,528.6211)" />
     <use
        style="display:inline"
        x="0"
@@ -12368,7 +12456,7 @@
        id="use10042"
        width="100%"
        height="100%"
-       transform="rotate(-45,-382.22448,536.20943)" />
+       transform="rotate(-38.60426,-531.1459,585.63044)" />
     <use
        style="display:inline"
        x="0"
@@ -12377,7 +12465,7 @@
        id="use10044"
        width="100%"
        height="100%"
-       transform="rotate(-90,-89.570075,494.88348)" />
+       transform="rotate(-9.8084129,-2478.7743,1014.7603)" />
     <use
        style="display:inline"
        x="0"
@@ -12386,7 +12474,7 @@
        id="use10042-1"
        width="100%"
        height="100%"
-       transform="rotate(-15,-1391.1455,777.18212)" />
+       transform="rotate(-63.878844,-251.34948,552.83665)" />
     <use
        style="display:inline"
        x="0"
@@ -12395,7 +12483,7 @@
        id="use10040-4"
        width="100%"
        height="100%"
-       transform="rotate(-75,-164.76039,549.64116)" />
+       transform="rotate(-93.46593,-107.42945,535.64796)" />
     <use
        style="display:inline"
        x="0"
@@ -12404,7 +12492,7 @@
        id="use10040-4-2"
        width="100%"
        height="100%"
-       transform="rotate(-90,-99.564797,552.55969)" />
+       transform="rotate(-97.726695,-81.43326,546.13911)" />
     <use
        style="display:inline"
        x="0"
@@ -12413,7 +12501,7 @@
        id="use10040-4-2-2"
        width="100%"
        height="100%"
-       transform="rotate(-120,-20.080888,546.85038)" />
+       transform="rotate(-118.37422,-23.958049,545.18605)" />
     <use
        style="display:inline"
        x="0"
@@ -12422,7 +12510,7 @@
        id="use10040-4-2-2-7"
        width="100%"
        height="100%"
-       transform="rotate(-165,57.054748,537.13564)" />
+       transform="rotate(-151.46589,39.745256,539.40774)" />
     <use
        style="display:inline"
        x="0"
@@ -12449,7 +12537,7 @@
        id="use10734"
        width="100%"
        height="100%"
-       transform="rotate(-90,-64.339242,473.64347)" />
+       transform="rotate(-97.623563,-47.611472,471.26464)" />
     <use
        style="display:inline"
        x="0"
@@ -13755,6 +13843,78 @@
        width="100%"
        height="100%"
        transform="rotate(28.148859,1049.2532,1506.0549)" />
+    <use
+       transform="rotate(-39.731953,-448.43644,549.6567)"
+       height="100%"
+       width="100%"
+       id="use10912"
+       xlink:href="#use7799-04-4"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       transform="rotate(-120.61034,-8.1423005,444.66571)"
+       height="100%"
+       width="100%"
+       id="use10914"
+       xlink:href="#g2689"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       transform="rotate(-157.43746,81.021339,437.18186)"
+       height="100%"
+       width="100%"
+       id="use10916"
+       xlink:href="#g2621"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       transform="rotate(-65.285575,-217.20538,466.5594)"
+       height="100%"
+       width="100%"
+       id="use10918"
+       xlink:href="#g2689"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       transform="rotate(-65.453076,-209.89909,543.95417)"
+       height="100%"
+       width="100%"
+       id="use10920"
+       xlink:href="#use7799-04-4"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       transform="rotate(-102.45781,-64.701391,532.71644)"
+       height="100%"
+       width="100%"
+       id="use10922"
+       xlink:href="#use7799-04-4"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       transform="rotate(-32.62203,-589.11731,519.41956)"
+       height="100%"
+       width="100%"
+       id="use10912-4"
+       xlink:href="#use7799-04-4"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       transform="rotate(-44.280577,-408.22267,470.00654)"
+       height="100%"
+       width="100%"
+       id="use10912-3"
+       xlink:href="#use7799-04-4"
+       y="0"
+       x="0"
+       style="display:inline" />
   </g>
   <g
      inkscape:groupmode="layer"
