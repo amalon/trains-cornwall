@@ -1,19 +1,62 @@
-INKSCAPE=inkscape
+INKSCAPE	:= inkscape
+PDFPOSTER	:= pdfposter
 
-INTERMEDIATES	+= intermediates/ticket_background.png
+TMP		:= intermediates
+OUT		:= outputs
+
+DPIS		:= 75 150 300
+
+OUTDIRS		+= $(TMP)
+OUTDIRS		+= $(OUT)
+
+INTERMEDIATES	+= $(TMP)/ticket_background.png
+
+PNG_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi.png)
+PDF_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi.pdf)
+TILED_OUTPUTS	+= $(foreach pdf,$(PDF_OUTPUTS),$(pdf:.pdf=-a4.pdf))
+
+OUTPUTS		+= $(PNG_OUTPUTS)
+OUTPUTS		+= $(PDF_OUTPUTS)
+OUTPUTS		+= $(TILED_OUTPUTS)
+
+DEFAULT_OUTPUTS	+= $(OUT)/Cornwall-300dpi-a4.pdf
+
+.PHONY: default
+default: $(DEFAULT_OPTIONS)
 
 .PHONY: all
-all: prepare
+all: prepare $(OUTPUTS)
 
 .PHONY: prepare
 prepare: $(INTERMEDIATES)
 
-intermediates:
+$(OUTDIRS):
 	mkdir $@
 
-intermediates/ticket_background.png: ticket_background.svg intermediates
-	$(INKSCAPE) $< --export-png=$@ --export-dpi=600
+$(INTERMEDIATES): $(TMP)/%.png: %.svg | $(TMP)
+	rm -f $@
+	$(INKSCAPE) $< --export-png=$@.tmp --export-dpi=600
+	mv $@.tmp $@
+
+$(PNG_OUTPUTS): $(OUT)/Cornwall-%dpi.png: Cornwall.svg | $(OUT)
+	rm -f $@
+	$(INKSCAPE) $< --export-png=$@.tmp --export-dpi=$(@:$(OUT)/Cornwall-%dpi.png=%)
+	mv $@.tmp $@
+
+$(PDF_OUTPUTS): $(OUT)/Cornwall-%dpi.pdf: Cornwall.svg | $(OUT)
+	rm -f $@
+	$(INKSCAPE) $< --export-pdf=$@.tmp --export-dpi=$(@:$(OUT)/Cornwall-%dpi.pdf=%)
+	mv $@.tmp $@
+
+$(TILED_OUTPUTS): %-a4.pdf: %.pdf
+	rm -f $@
+	$(PDFPOSTER) -m27x19cm -s1 $< $@.tmp
+	mv $@.tmp $@
 
 clean:
-	rm -fr $(INTERMEDIATES)
-	rmdir intermediates/
+	rm -f $(INTERMEDIATES)
+	rm -f $(PNG_OUTPUTS)
+	rm -f $(PDF_OUTPUTS)
+	rm -f $(TILED_OUTPUTS)
+	rm -f $(OUT)/*.tmp
+	rmdir $(OUTDIRS) || true

@@ -6,13 +6,44 @@ Copyright © 2019 James Hogan <james@jhogan.uk>
 Contains Ordnance Survey data © Crown copyright and database right
 
 
+Prerequisites
+-------------
+
+You need the "Kaushan Script Regular" font installed from fontlibrary.org:
+
+  https://fontlibrary.org/en/font/kaushan-script
+
+Install Inkscape and ensure it is in the $PATH.
+
+Install pdfposter and ensure pdfposter is in the $PATH:
+
+  https://gitlab.com/pdftools/pdfposter.git
+
+
 Building
 --------
 
+The default Makefile targets generate a tiled A4 PDF of the board in
+outputs/Cornwall-300dpi-a4.pdf:
+
+$ make
+
 To open cornwall_tickets.svg you first need to generate the background from
-ticket_background.svg. This can be done with the included makefile:
+ticket_background.svg. This can be done with the "prepare" Makefile target:
 
 $ make prepare
+
+Other Makefile targets are as follows (where XX is the DPI, either 75, 150, or
+300):
+
+ - outputs/Cornwall-XXdpi.png
+   A PNG of the board at the specified DPI.
+
+ - outputs/Cornwall-XXdpi.pdf
+   A single page PDF of the board at the specified DPI.
+
+ - outputs/Cornwall-XXdpi-a4.pdf
+   A tiled multipage PDF of the board at the specified DPI, for A4 printing.
 
 
 Sources
@@ -60,6 +91,9 @@ the originals/ directory. Modifications can be found in the modified/ directory.
    It is then used as the locomotives on ferry routes on the board, and in the
    table of scores for different route lengths on the board.
 
+ - Most of the text uses the "Kaushan Script Regular" [8] font, released under
+   the OFL (SIL Open Font License).
+
 [1] https://en.wikipedia.org/wiki/File:Cornwall_UK_district_map_(blank).svg
 [2] https://en.wikipedia.org/wiki/File:Isles_of_Scilly_UK_location_map.svg
 [3] https://en.wikipedia.org/wiki/File:Flag_of_Cornwall.svg
@@ -67,3 +101,4 @@ the originals/ directory. Modifications can be found in the modified/ directory.
 [5] https://en.wikipedia.org/wiki/File:Flag_of_the_United_States.svg
 [6] https://en.wikipedia.org/wiki/File:ScillonianCross.svg
 [7] https://en.wikipedia.org/wiki/File:Steam_locomotive_scheme_new.png
+[8] https://fontlibrary.org/en/font/kaushan-script
