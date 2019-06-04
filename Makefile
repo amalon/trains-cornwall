@@ -1,4 +1,5 @@
 INKSCAPE	:= inkscape
+CONVERT		:= convert
 PDFPOSTER	:= pdfposter
 
 TMP		:= intermediates
@@ -49,10 +50,10 @@ $(PNG_OUTPUTS): $(OUT)/Cornwall-%dpi.png: Cornwall.svg | $(OUT)
 	$(INKSCAPE) $< --export-png=$@.tmp --export-dpi=$(@:$(OUT)/Cornwall-%dpi.png=%)
 	mv $@.tmp $@
 
-$(PDF_OUTPUTS): $(OUT)/Cornwall-%dpi.pdf: Cornwall.svg | $(OUT)
+$(PDF_OUTPUTS): $(OUT)/Cornwall%.pdf: $(OUT)/Cornwall%.png
 	rm -f $@
-	$(INKSCAPE) $< --export-pdf=$@.tmp --export-dpi=$(@:$(OUT)/Cornwall-%dpi.pdf=%)
-	mv $@.tmp $@
+	$(CONVERT) $< $@.tmp.pdf
+	mv $@.tmp.pdf $@
 
 $(TILED_OUTPUTS): %-a4.pdf: %.pdf
 	rm -f $@
