@@ -27,6 +27,12 @@ default: $(DEFAULT_OPTIONS)
 .PHONY: all
 all: prepare $(OUTPUTS)
 
+.PHONY: png
+png: $(PNG_OUTPUTS)
+
+.PHONY: pdf
+pdf: $(PDF_OUTPUTS) $(TILED_OUTPUTS)
+
 .PHONY: prepare
 prepare: $(INTERMEDIATES)
 

@@ -36,6 +36,13 @@ $ make prepare
 Other Makefile targets are as follows (where XX is the DPI, either 75, 150, or
 300):
 
+ - png
+   PNG files for each of the above DPI levels.
+
+ - pdf
+   PDF files for each of the above DPI levels and corresponding A4 tiles for
+   printing.
+
  - outputs/Cornwall-XXdpi.png
    A PNG of the board at the specified DPI.
 
