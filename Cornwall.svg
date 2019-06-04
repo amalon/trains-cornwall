@@ -7525,42 +7525,6 @@
          stdDeviation="4"
          id="feGaussianBlur2" />
     </filter>
-    <filter
-       id="filter906">
-      <feGaussianBlur
-         stdDeviation="4"
-         id="feGaussianBlur904" />
-    </filter>
-    <filter
-       id="filter910">
-      <feGaussianBlur
-         stdDeviation="4"
-         id="feGaussianBlur908" />
-    </filter>
-    <filter
-       id="filter914">
-      <feGaussianBlur
-         stdDeviation="4"
-         id="feGaussianBlur912" />
-    </filter>
-    <filter
-       id="filter918">
-      <feGaussianBlur
-         stdDeviation="4"
-         id="feGaussianBlur916" />
-    </filter>
-    <filter
-       id="filter922">
-      <feGaussianBlur
-         stdDeviation="4"
-         id="feGaussianBlur920" />
-    </filter>
-    <filter
-       id="filter926">
-      <feGaussianBlur
-         stdDeviation="4"
-         id="feGaussianBlur924" />
-    </filter>
     <linearGradient
        id="linearGradient877"
        y2="286.51001"
