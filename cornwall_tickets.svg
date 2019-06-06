@@ -973,6 +973,17 @@
        r="4.6265907"
        gradientTransform="matrix(1,0,0,0.84221307,6.9749934,-124.77673)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-4-0-9-7"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,93.97499,-124.77673)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8161,6 +8172,12 @@
      style="display:none">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
+       d="m 168.59518,97.755605 -37.33023,6.563445"
+       id="path1424-0-0-4-48"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
        d="m 72.34999,35.713577 9.254476,5.278508"
        id="path1424-4-3-4-68-9"
        inkscape:connector-curvature="0"
@@ -8712,6 +8729,79 @@
        width="100%"
        height="100%"
        transform="translate(6.8602651,-167.21539)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-4-0-9-7);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="121.98804"
+       y="113.46841"
+       id="text8171-43-8-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan8169-9-2-9-1"
+         x="121.98804"
+         y="113.46841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-4-0-9-7);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">13</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-178-7-4-2-5"
+       width="100%"
+       height="100%"
+       transform="translate(67.36136,-273.72907)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-00-0-8-5-9"
+       width="100%"
+       height="100%"
+       transform="translate(104.88134,-280.46552)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="113.99874"
+       y="74.715492"
+       id="text6433-2-9-2-7"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-35-7-76"
+         x="113.99874"
+         y="74.715492">Helston &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="157.92775"
+       y="80.275337"
+       id="text6433-1-7-4-3-73"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-12-5-6"
+         x="157.92775"
+         y="80.275337">&lt; Liskeard</tspan></text>
+    <text
+       id="text48524-2-37-5"
+       y="74.7155"
+       x="113.99874"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="74.7155"
+         x="113.99874"
+         id="tspan48522-7-48-6"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Helston &gt;</tspan></text>
+    <text
+       id="text48528-7-0-3"
+       y="80.275345"
+       x="157.92775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="80.275345"
+         x="157.92775"
+         id="tspan48526-9-0-9"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Liskeard</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -11560,5 +11650,23 @@
        x="0"
        style="display:inline"
        transform="translate(0,56.5)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#path1424-0-0-4-48"
+       id="use3213"
+       width="100%"
+       height="100%"
+       transform="translate(0,-56.5)" />
+    <use
+       height="100%"
+       width="100%"
+       id="use3216"
+       xlink:href="#path1424-0-0-4-48"
+       y="0"
+       x="0"
+       style="display:inline"
+       transform="translate(-87,56.5)" />
   </g>
 </svg>
