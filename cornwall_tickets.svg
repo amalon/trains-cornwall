@@ -1749,12 +1749,12 @@
       <image
          sodipodi:absref="/home/james/ticket2ride/intermediates/ticket_background.png"
          xlink:href="intermediates/ticket_background.png"
-         width="72.009003"
-         height="48.006001"
-         preserveAspectRatio="none"
-         id="image16899"
+         y="294.34399"
          x="24.455"
-         y="294.34399" />
+         id="image16899"
+         preserveAspectRatio="none"
+         height="48.006001"
+         width="72.009003" />
       <rect
          y="290.0997"
          x="17.299709"
@@ -8055,7 +8055,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
-       d="m 67.125413,211.72826 8.320126,-13.22161"
+       d="m 70.489071,210.88735 4.956468,-12.3807"
        id="path1424-4-3-4-55-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -8130,7 +8130,7 @@
          y="226.46841"
          x="34.988022"
          id="tspan17953-3-86"
-         sodipodi:role="line">12</tspan></text>
+         sodipodi:role="line">11</tspan></text>
     <text
        id="use17861-43-8"
        y="282.96841"
@@ -8169,15 +8169,6 @@
        width="100%"
        height="100%"
        transform="translate(11.713453,-179.53056)" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#g5628"
-       id="use2556-51-5-7-6"
-       width="100%"
-       height="100%"
-       transform="translate(3.3444014,-166.43771)" />
     <use
        style="display:inline"
        x="0"
@@ -8333,7 +8324,7 @@
          sodipodi:role="line"
          id="tspan6465-2-9-9"
          x="70.927742"
-         y="193.27533">&lt; St. Austell</tspan></text>
+         y="193.27533">&lt; Par</tspan></text>
     <text
        id="text48524-38-0"
        y="187.71548"
@@ -8355,7 +8346,7 @@
          x="70.927742"
          id="tspan48526-3-2"
          sodipodi:role="line"
-         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; St. Austell</tspan></text>
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Par</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
@@ -8576,6 +8567,15 @@
          id="tspan48526-9-24-7"
          sodipodi:role="line"
          style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Gweek</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-88-6-5-2"
+       width="100%"
+       height="100%"
+       transform="translate(6.8602651,-167.21539)" />
   </g>
   <g
      inkscape:groupmode="layer"
