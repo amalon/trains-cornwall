@@ -829,7 +829,7 @@
     <filter
        width="2"
        x="-0.5"
-       height="21"
+       height="30"
        y="-10"
        id="filter52597"
        inkscape:label="Line Shadow Horizontal"
@@ -1060,6 +1060,83 @@
        fy="278.57516"
        r="4.6265907"
        gradientTransform="matrix(1,0,0,0.84221307,93.974993,-11.776731)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-6-4-6-0"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,6.9749934,-124.77674)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-6-4-6-7-2"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,6.9749934,-181.27674)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-4-0-9-5-8"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,93.974991,-181.27674)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-4-0-9-3"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,93.974991,-124.77674)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-6-8-0"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,6.9749934,-68.276739)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-4-6-1"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,93.974991,-68.276739)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-6-4-7"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,6.9749924,-11.776736)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -9836,9 +9913,607 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Page 6"
+     style="display:none">
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
+       d="M 89.374677,214.99 75.973836,206.78223"
+       id="path1424-0-95-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
+       d="M 52.643576,161.14882 39.34121,156.68309"
+       id="path1424-0-4-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
+       d="m 136.29545,155.73272 -20.88494,1.83666"
+       id="path1424-0-0-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter52597)"
+       d="m 75.982104,93.816596 -22.657472,0.06411"
+       id="path1424-0-98-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter52597)"
+       d="m 159.1416,92.142534 -14.58255,-0.82216"
+       id="path1424-0-0-4-41"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
+       d="M 80.216521,45.391529 55.688027,41.812074"
+       id="path1424-0-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
+       d="M 162.88364,37.316605 139.83226,48.015997"
+       id="path1424-0-0-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-6-4-7);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="34.988029"
+       y="226.46841"
+       id="text8171-4-2-25"><tspan
+         sodipodi:role="line"
+         id="tspan8169-1-0-7"
+         x="34.988029"
+         y="226.46841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-6-4-7);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">5</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-72-0-2-4"
+       width="100%"
+       height="100%"
+       transform="translate(12.252545,-171.33858)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-98-6-6-9"
+       width="100%"
+       height="100%"
+       transform="translate(25.661691,-163.1801)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-6-8-0);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="34.988029"
+       y="169.96841"
+       id="text8171-4-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan8169-1-6-4"
+         x="34.988029"
+         y="169.96841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-6-8-0);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">6</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-6-2-7-5"
+       width="100%"
+       height="100%"
+       transform="translate(-24.356099,-221.44387)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-0-7-5-9"
+       width="100%"
+       height="100%"
+       transform="translate(-10.896676,-217.11973)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-4-6-1);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="121.98804"
+       y="169.96841"
+       id="text8171-43-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan8169-9-3-5"
+         x="121.98804"
+         y="169.96841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-4-6-1);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">6</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-55-3-7"
+       width="100%"
+       height="100%"
+       transform="translate(51.71539,-220.4937)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-17-0-5-0"
+       width="100%"
+       height="100%"
+       transform="translate(72.59909,-222.38775)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-6-4-6-0);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="34.988029"
+       y="113.46841"
+       id="text8171-4-2-2-81"><tspan
+         sodipodi:role="line"
+         id="tspan8169-1-0-8-9"
+         x="34.988029"
+         y="113.46841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-6-4-6-0);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">8</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-02-1-8-2-9"
+       width="100%"
+       height="100%"
+       transform="translate(-10.236475,-284.23744)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-72-0-2-8-7"
+       width="100%"
+       height="100%"
+       transform="translate(12.252545,-284.33859)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-4-0-9-3);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="121.98804"
+       y="113.46841"
+       id="text8171-43-8-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan8169-9-2-9-25"
+         x="121.98804"
+         y="113.46841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-4-0-9-3);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">8</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-14-9-7-2-3"
+       width="100%"
+       height="100%"
+       transform="translate(80.89718,-286.82779)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-7-1-9-6-4"
+       width="100%"
+       height="100%"
+       transform="translate(95.513621,-285.89558)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-6-4-6-7-2);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="34.988029"
+       y="56.968403"
+       id="text8171-4-2-2-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan8169-1-0-8-1-0"
+         x="34.988029"
+         y="56.968403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-6-4-6-7-2);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">9</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-91-2-0-4-1-2"
+       width="100%"
+       height="100%"
+       transform="translate(-7.9014496,-336.24621)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-65-3-2-1-3-0"
+       width="100%"
+       height="100%"
+       transform="translate(16.527519,-332.66598)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-4-0-9-5-8);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="121.98804"
+       y="56.968403"
+       id="text8171-43-8-7-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan8169-9-2-9-7-9"
+         x="121.98804"
+         y="56.968403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-4-0-9-5-8);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">9</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-0-5-3-2-4-6"
+       width="100%"
+       height="100%"
+       transform="translate(76.103322,-330.11973)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-72-8-2-9-8-2"
+       width="100%"
+       height="100%"
+       transform="translate(99.25254,-340.83859)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="26.998726"
+       y="187.71548"
+       id="text6433-2-5-12"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-2-0"
+         x="26.998726"
+         y="187.71548">Bodmin Rd. &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="70.927742"
+       y="193.27533"
+       id="text6433-1-7-5-7"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-9-3"
+         x="70.927742"
+         y="193.27533">&lt; Saltash</tspan></text>
+    <text
+       id="text48524-38-11"
+       y="187.71548"
+       x="26.998726"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="187.71548"
+         x="26.998726"
+         id="tspan48522-8-9"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Bodmin Rd. &gt;</tspan></text>
+    <text
+       id="text48528-4-05"
+       y="193.27531"
+       x="70.927742"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="193.27531"
+         x="70.927742"
+         id="tspan48526-3-6"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Saltash</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="26.998726"
+       y="131.21547"
+       id="text6433-2-0-7"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-9-7"
+         x="26.998726"
+         y="131.21547">St. Erth &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="70.927742"
+       y="136.77533"
+       id="text6433-1-7-3-40"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-6-6"
+         x="70.927742"
+         y="136.77533">&lt; Falmouth</tspan></text>
+    <text
+       id="text48524-389-47"
+       y="131.21547"
+       x="26.998726"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="131.21547"
+         x="26.998726"
+         id="tspan48522-5-4"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">St. Erth &gt;</tspan></text>
+    <text
+       id="text48528-0-85"
+       y="136.77533"
+       x="70.927742"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="136.77533"
+         x="70.927742"
+         id="tspan48526-1-82"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Falmouth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="113.99874"
+       y="131.2155"
+       id="text6433-2-9-7-60"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-35-1-6"
+         x="113.99874"
+         y="131.2155">Land's End &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="157.92775"
+       y="136.77533"
+       id="text6433-1-7-4-9-64"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-12-8-62"
+         x="157.92775"
+         y="136.77533">&lt; Redruth</tspan></text>
+    <text
+       id="text48524-2-2-8"
+       y="131.2155"
+       x="113.99874"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="131.2155"
+         x="113.99874"
+         id="tspan48522-7-6-96"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Land's End &gt;</tspan></text>
+    <text
+       id="text48528-7-7-07"
+       y="136.77533"
+       x="157.92775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="136.77533"
+         x="157.92775"
+         id="tspan48526-9-5-0"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Redruth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="26.998726"
+       y="74.715469"
+       id="text6433-2-3-1"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-0-0"
+         x="26.998726"
+         y="74.715469">Perranporth &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="70.927742"
+       y="80.275314"
+       id="text6433-1-7-6-13"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-4-77"
+         x="70.927742"
+         y="80.275314">&lt; Bodmin Rd.</tspan></text>
+    <text
+       id="text48524-4-2"
+       y="74.715485"
+       x="26.998726"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="74.715485"
+         x="26.998726"
+         id="tspan48522-75-6"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Perranporth &gt;</tspan></text>
+    <text
+       id="text48528-3-4"
+       y="80.275322"
+       x="70.927742"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="80.275322"
+         x="70.927742"
+         id="tspan48526-8-5"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Bodmin Rd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="113.99874"
+       y="74.715485"
+       id="text6433-2-9-2-20"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-35-7-2"
+         x="113.99874"
+         y="74.715485">Newquay &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="157.92775"
+       y="80.27533"
+       id="text6433-1-7-4-3-9"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-12-5-09"
+         x="157.92775"
+         y="80.27533">&lt; Bodmin</tspan></text>
+    <text
+       id="text48524-2-37-94"
+       y="74.715492"
+       x="113.99874"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="74.715492"
+         x="113.99874"
+         id="tspan48522-7-48-51"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Newquay &gt;</tspan></text>
+    <text
+       id="text48528-7-0-037"
+       y="80.275337"
+       x="157.92775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="80.275337"
+         x="157.92775"
+         id="tspan48526-9-0-8"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Bodmin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="26.998726"
+       y="18.215473"
+       id="text6433-2-8-8"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-8-6"
+         x="26.998726"
+         y="18.215473">Truro &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="70.927742"
+       y="23.775318"
+       id="text6433-1-7-68-0"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-2-46"
+         x="70.927742"
+         y="23.775318">&lt; Looe</tspan></text>
+    <text
+       id="text48524-0-76"
+       y="18.215473"
+       x="26.998726"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="18.215473"
+         x="26.998726"
+         id="tspan48522-2-0"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Truro &gt;</tspan></text>
+    <text
+       id="text48528-49-9"
+       y="23.775318"
+       x="70.927742"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="23.775318"
+         x="70.927742"
+         id="tspan48526-81-7"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Looe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="113.99874"
+       y="18.215488"
+       id="text6433-2-9-56-5"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-35-4-9"
+         x="113.99874"
+         y="18.215488">Falmouth &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="157.92775"
+       y="23.775331"
+       id="text6433-1-7-4-6-78"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-12-86-5"
+         x="157.92775"
+         y="23.775331">&lt; Bodmin Rd.</tspan></text>
+    <text
+       id="text48524-2-35-33"
+       y="18.215488"
+       x="113.99874"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="18.215488"
+         x="113.99874"
+         id="tspan48522-7-7-8"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Falmouth &gt;</tspan></text>
+    <text
+       id="text48528-7-4-37"
+       y="23.775333"
+       x="157.92775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="23.775333"
+         x="157.92775"
+         id="tspan48526-9-24-9"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Bodmin Rd.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="All Tickets"
      style="display:none">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path1424-0-98-7"
+       id="use6827"
+       width="100%"
+       height="100%"
+       transform="translate(0,56.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path1424-0-95-3"
+       id="use6821"
+       width="100%"
+       height="100%"
+       transform="translate(0,-56.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path1424-0-4-7"
+       id="use6823"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path1424-0-0-8-8"
+       id="use6825"
+       width="100%"
+       height="100%"
+       transform="translate(-87)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path1424-0-0-4-41"
+       id="use6829"
+       width="100%"
+       height="100%"
+       transform="translate(-87,56.5)" />
     <use
        transform="translate(0,-113)"
        height="100%"
@@ -12424,5 +13099,37 @@
        width="100%"
        height="100%"
        transform="translate(0,-169.5)" />
+    <use
+       transform="translate(0,-56.5)"
+       height="100%"
+       width="100%"
+       id="use6836"
+       xlink:href="#path1424-0-4-7"
+       y="0"
+       x="0" />
+    <use
+       transform="translate(-87,-56.5)"
+       height="100%"
+       width="100%"
+       id="use6838"
+       xlink:href="#path1424-0-0-8-8"
+       y="0"
+       x="0" />
+    <use
+       transform="translate(-87)"
+       height="100%"
+       width="100%"
+       id="use6840"
+       xlink:href="#path1424-0-0-4-41"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       id="use6842"
+       xlink:href="#path1424-0-95-3"
+       y="0"
+       x="0"
+       transform="translate(87,-113)" />
   </g>
 </svg>
