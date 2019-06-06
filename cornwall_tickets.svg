@@ -984,6 +984,17 @@
        r="4.6265907"
        gradientTransform="matrix(1,0,0,0.84221307,93.97499,-124.77673)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177"
+       id="radialGradient8179-4-0-5"
+       cx="27.983925"
+       cy="278.57516"
+       fx="27.983925"
+       fy="278.57516"
+       r="4.6265907"
+       gradientTransform="matrix(1,0,0,0.84221307,93.974993,-11.776731)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8172,6 +8183,12 @@
      style="display:none">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
+       d="m 125.82702,209.30668 -7.60654,-11.03335"
+       id="path1424-0-0-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e5001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter49267-4)"
        d="m 168.59518,97.755605 -37.33023,6.563445"
        id="path1424-0-0-4-48"
        inkscape:connector-curvature="0"
@@ -8802,6 +8819,79 @@
          id="tspan48526-9-0-9"
          sodipodi:role="line"
          style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; Liskeard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#radialGradient8179-4-0-5);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60317461;filter:url(#filter48076)"
+       x="121.98804"
+       y="226.46841"
+       id="text8171-43-8-75"><tspan
+         sodipodi:role="line"
+         id="tspan8169-9-2-96"
+         x="121.98804"
+         y="226.46841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.46666622px;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient8179-4-0-5);fill-opacity:1;stroke:#fefee9;stroke-width:0.26458332px;stroke-opacity:0.60317461">12</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g3026-4-1"
+       id="use2181-4-7-2"
+       width="100%"
+       height="100%"
+       transform="translate(54.53527,-162.34709)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g5628"
+       id="use2556-1-3-7-1"
+       width="100%"
+       height="100%"
+       transform="translate(62.291298,-168.76188)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="113.99874"
+       y="187.7155"
+       id="text6433-2-9-5-7"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6463-1-35-0-8"
+         x="113.99874"
+         y="187.7155">Tresco &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235;filter:url(#filter48520-3)"
+       x="157.92775"
+       y="193.27534"
+       id="text6433-1-7-4-5-5"><tspan
+         style="fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
+         sodipodi:role="line"
+         id="tspan6465-2-12-9-7"
+         x="157.92775"
+         y="193.27534">&lt; St. Ives</tspan></text>
+    <text
+       id="text48524-2-3-4"
+       y="187.7155"
+       x="113.99874"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="187.7155"
+         x="113.99874"
+         id="tspan48522-7-4-1"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Tresco &gt;</tspan></text>
+    <text
+       id="text48528-7-6-85"
+       y="193.27534"
+       x="157.92775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="193.27534"
+         x="157.92775"
+         id="tspan48526-9-2-9"
+         sodipodi:role="line"
+         style="fill:#647ba4;fill-opacity:1;stroke:#204b71;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&lt; St. Ives</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -11668,5 +11758,23 @@
        x="0"
        style="display:inline"
        transform="translate(-87,56.5)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#path1424-0-0-9-7"
+       id="use3515"
+       width="100%"
+       height="100%"
+       transform="translate(-87,-56.5)" />
+    <use
+       transform="translate(0,-169.5)"
+       height="100%"
+       width="100%"
+       id="use3518"
+       xlink:href="#path1424-0-0-9-7"
+       y="0"
+       x="0"
+       style="display:inline" />
   </g>
 </svg>
