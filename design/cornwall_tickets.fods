@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2019-05-30T16:22:50.808698850</meta:creation-date><meta:generator>LibreOffice/6.1.5.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator><dc:date>2019-06-06T12:22:50.788328931</dc:date><meta:editing-duration>P3DT21H57M15S</meta:editing-duration><meta:editing-cycles>128</meta:editing-cycles><meta:document-statistic meta:table-count="4" meta:cell-count="450" meta:object-count="2"/></office:meta>
+ <office:meta><meta:creation-date>2019-05-30T16:22:50.808698850</meta:creation-date><meta:generator>LibreOffice/6.1.5.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator><dc:date>2019-06-06T12:31:33.582242325</dc:date><meta:editing-duration>P3DT22H3M13S</meta:editing-duration><meta:editing-cycles>129</meta:editing-cycles><meta:document-statistic meta:table-count="4" meta:cell-count="450" meta:object-count="2"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">39161</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">16256</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">14797</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">26190</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -67,8 +67,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Tickets">
-       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">14</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">23</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -77,7 +77,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">5</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -118,7 +118,7 @@
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">yAH+/2hwX2RqNDUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpocF9kajQ1MAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMA6QAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9aHBfZGo0NTAKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAElucHV0U2xvdDpBdXRvAE91dHB1dE1vZGU6Tm9ybWFsAENvbG9yTW9kZWw6UkdCAFBhZ2VTaXplOkE0AAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">yAH+/2hwX2RqNDUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpocF9kajQ1MAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMA6QAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9aHBfZGo0NTAKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkNvbG9yTW9kZWw6UkdCAE91dHB1dE1vZGU6Tm9ybWFsAFBhZ2VTaXplOkE0AER1cGxleDpOb25lAElucHV0U2xvdDpBdXRvAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">hp_dj450</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
@@ -262,6 +262,9 @@
   <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
   <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
@@ -312,7 +315,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2019-06-06">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="09:41:13.783573221">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2019-06-06">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="12:25:35.517616669">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -348,95 +351,95 @@
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Par</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>New York</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="20" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="20" calcext:value-type="float">
       <text:p>20</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Long, was NYC-NQY</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>YES</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>St. Mary’s</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Newquay</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="20" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="20" calcext:value-type="float">
       <text:p>20</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Long</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>YES</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Helston</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Bude</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="19" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="19" calcext:value-type="float">
       <text:p>19</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Long, was LIZ-BUD</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>YES</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Lizard</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Launceston</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="19" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="19" calcext:value-type="float">
       <text:p>19</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Long (to replace MEV-HAL)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>YES</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Penzance</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Plymouth</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="19" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="19" calcext:value-type="float">
       <text:p>19</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Long</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>YES</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1014"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -449,32 +452,32 @@
       <text:p>15</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Land’s End</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Lostwithiel</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="14" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="14" calcext:value-type="float">
       <text:p>14</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Falmouth</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Launceston</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="14" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="14" calcext:value-type="float">
       <text:p>14</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -490,35 +493,35 @@
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Helston</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Liskeard</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="13" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="13" calcext:value-type="float">
       <text:p>13</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Mevagissey</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Halwill</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="12" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="12" calcext:value-type="float">
       <text:p>12</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Long, was LSE-HAL, was 18</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>YES</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -545,58 +548,58 @@
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Tresco</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>St. Ives</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="12" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="12" calcext:value-type="float">
       <text:p>12</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Newquay</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Launceston</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="12" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="12" calcext:value-type="float">
       <text:p>12</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Gweek</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Looe</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="12" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="12" calcext:value-type="float">
       <text:p>12</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Camelford</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Par</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="11" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="11" calcext:value-type="float">
       <text:p>11</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Was Camelford – St. Austell</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5"/>
+     <table:table-cell table:style-name="ce2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -612,16 +615,55 @@
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>St. Erth</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Lostwithiel</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="11" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="11" calcext:value-type="float">
       <text:p>11</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Penzance</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>St. Austell</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Liskeard</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Halwill</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Camborne</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Bodmin Rd.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -631,49 +673,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mevagissey</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
-      <text:p>10</text:p>
+     <table:table-cell office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Penzance</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>St. Austell</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="10" calcext:value-type="float">
-      <text:p>10</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1019"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Liskeard</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Halwill</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="10" calcext:value-type="float">
-      <text:p>10</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1019"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Camborne</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Bodmin Rd.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="10" calcext:value-type="float">
-      <text:p>10</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -688,29 +691,29 @@
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Truro</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Looe</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="9" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="9" calcext:value-type="float">
       <text:p>9</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Falmouth</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Bodmin Rd.</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="9" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="9" calcext:value-type="float">
       <text:p>9</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -762,29 +765,29 @@
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Perranporth</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Bodmin Rd.</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="8" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="8" calcext:value-type="float">
       <text:p>8</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Newquay</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Bodmin</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="8" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="8" calcext:value-type="float">
       <text:p>8</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -870,7 +873,7 @@
       <text:p>6</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -883,31 +886,31 @@
       <text:p>6</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>St. Erth</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Falmouth</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="6" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="6" calcext:value-type="float">
       <text:p>6</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1021"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Land’s End</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Redruth</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="6" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="6" calcext:value-type="float">
       <text:p>6</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1021"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -920,7 +923,7 @@
       <text:p>5</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -933,19 +936,19 @@
       <text:p>5</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Bodmin Rd.</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Saltash</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="5" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="5" calcext:value-type="float">
       <text:p>5</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1021"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -958,7 +961,7 @@
       <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -971,7 +974,7 @@
       <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -984,7 +987,7 @@
       <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -997,7 +1000,7 @@
       <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1013,7 +1016,7 @@
       <text:p>SHORT</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1026,7 +1029,7 @@
       <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1039,7 +1042,7 @@
       <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1052,7 +1055,7 @@
       <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1065,7 +1068,7 @@
       <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1078,31 +1081,31 @@
       <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1019"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Penzance</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Camborne</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="3" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="3" calcext:value-type="float">
       <text:p>3</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1021"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>St. Mary’s</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Tresco</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1021"/>
+     <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Scores" table:style-name="ta1">
@@ -1275,16 +1278,16 @@
               <table:table-cell office:value-type="string">
                <text:p>9</text:p>
               </table:table-cell>
-              <table:table-cell office:value-type="float" office:value="3">
-               <text:p>3</text:p>
+              <table:table-cell office:value-type="float" office:value="4">
+               <text:p>4</text:p>
               </table:table-cell>
              </table:table-row>
              <table:table-row>
               <table:table-cell office:value-type="string">
                <text:p>10</text:p>
               </table:table-cell>
-              <table:table-cell office:value-type="float" office:value="4">
-               <text:p>4</text:p>
+              <table:table-cell office:value-type="float" office:value="3">
+               <text:p>3</text:p>
               </table:table-cell>
              </table:table-row>
              <table:table-row>
@@ -1374,7 +1377,7 @@
         </office:body>
        </office:document>
       </draw:object><draw:image>
-       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAACkVAAA+VQAAOgLAADzCwAAAPlUAADM
+       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAPlUAADM
         LwAA5AMAAIsAAQACAAAA//+BAAEAEAAAAAAAAAAAAAAA+FQAAMsvAACLAAEAAgAAACAAggAB
         ACEAAAACABsAAAACAAIAAAAAAAAAyy8AAAEAAAAAAPhUAAACAACVAAEABAAAAAAAAACWAAEA
         AgAAAAkAiwABAAIAAAADAIUAAQAFAAAA////AAGEAAEABQAAAAAAAAAAbwACADYAAAABAAYA
@@ -2066,8 +2069,8 @@
      <table:table-cell office:value-type="float" office:value="9" calcext:value-type="float">
       <text:p>9</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIF([$Tickets.C$1:$Tickets.C$1048576];COM.MICROSOFT.CONCAT(&quot;=&quot;;[.A10]))" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
+     <table:table-cell table:formula="of:=COUNTIF([$Tickets.C$1:$Tickets.C$1048576];COM.MICROSOFT.CONCAT(&quot;=&quot;;[.A10]))" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
       <text:p>3</text:p>
@@ -2077,8 +2080,8 @@
      <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
       <text:p>10</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIF([$Tickets.C$1:$Tickets.C$1048576];COM.MICROSOFT.CONCAT(&quot;=&quot;;[.A11]))" office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
+     <table:table-cell table:formula="of:=COUNTIF([$Tickets.C$1:$Tickets.C$1048576];COM.MICROSOFT.CONCAT(&quot;=&quot;;[.A11]))" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
       <text:p>3</text:p>
@@ -4529,7 +4532,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Dropped Tickets" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Launceston</text:p>
