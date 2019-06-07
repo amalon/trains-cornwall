@@ -26,7 +26,8 @@ Building
 --------
 
 The default Makefile targets generate a tiled A4 PDF of the board in
-outputs/Cornwall-300dpi-a4.pdf:
+outputs/Cornwall-300dpi-a4.pdf, and a paged set of destination tickets in
+outputs/cornwall_tickets-300dpi.pdf:
 
 $ make
 
@@ -37,6 +38,15 @@ $ make prepare
 
 Other Makefile targets are as follows (where XX is the DPI, either 75, 150, or
 300):
+
+ - all
+   All outputs at all DPI levels.
+
+ - board
+   Just the board PDF at the default DPI level.
+
+ - tickets
+   Just the tickets PDF at the default DPI level.
 
  - png
    PNG files for each of the above DPI levels.
