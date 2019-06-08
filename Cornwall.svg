@@ -1914,34 +1914,6 @@
        fy="-13.455162"
        r="9" />
     <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter16947-9"
-       x="-0.12"
-       width="1.23"
-       y="-0.40000000000000002"
-       height="1.8"
-       inkscape:label="Place Name Shadow">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.45"
-         id="feGaussianBlur16949-6" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter16947-90"
-       x="-0.12"
-       width="1.23"
-       y="-0.2"
-       height="1.4"
-       inkscape:label="Place Name Shadow">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.45"
-         id="feGaussianBlur16949-2" />
-    </filter>
-    <filter
        id="AI_GaussianBlur_4">
       <feGaussianBlur
          stdDeviation="4"
@@ -3576,7 +3548,7 @@
        id="text2819-1"
        y="523.74432"
        x="507.88177"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter16947-9)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#647ba4;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter16947)"
        font-size="40.64">
       <tspan
          sodipodi:role="line"
@@ -3589,7 +3561,7 @@
        id="text15611-8"
        y="524.75464"
        x="370.8497"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.48540878px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fefee9;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter16947-90)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.48540878px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fefee9;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter16947)"
        font-size="40.64">
       <tspan
          sodipodi:role="line"
