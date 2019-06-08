@@ -570,166 +570,6 @@
        y2="536.5" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#RedLoco"
-       id="radialGradient7460"
-       cx="42.999996"
-       cy="536.5"
-       fx="42.999996"
-       fy="536.5"
-       r="13"
-       gradientTransform="matrix(1,0,0,0.34615666,0,350.78695)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#RedStroke"
-       id="linearGradient7468"
-       x1="29.999998"
-       y1="536.5"
-       x2="55.999996"
-       y2="536.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#OrangeLoco"
-       id="radialGradient7460-9"
-       cx="42.999996"
-       cy="536.5"
-       fx="42.999996"
-       fy="536.5"
-       r="13"
-       gradientTransform="matrix(1,0,0,0.34615666,0,350.78695)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#OrangeStroke"
-       id="linearGradient7468-1"
-       x1="29.999998"
-       y1="536.5"
-       x2="55.999996"
-       y2="536.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#YellowLoco"
-       id="radialGradient7460-3"
-       cx="42.999996"
-       cy="536.5"
-       fx="42.999996"
-       fy="536.5"
-       r="13"
-       gradientTransform="matrix(1,0,0,0.34615666,0,350.78695)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#YellowStroke"
-       id="linearGradient7468-9"
-       x1="29.999998"
-       y1="536.5"
-       x2="55.999996"
-       y2="536.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#GreenLoco"
-       id="radialGradient7460-4"
-       cx="42.999996"
-       cy="536.5"
-       fx="42.999996"
-       fy="536.5"
-       r="13"
-       gradientTransform="matrix(1,0,0,0.34615666,0,350.78695)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#GreenStroke"
-       id="linearGradient7468-4"
-       x1="29.999998"
-       y1="536.5"
-       x2="55.999996"
-       y2="536.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#BlueLoco"
-       id="radialGradient7460-8"
-       cx="42.999996"
-       cy="536.5"
-       fx="42.999996"
-       fy="536.5"
-       r="13"
-       gradientTransform="matrix(1,0,0,0.34615666,0,350.78695)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#BlueStroke"
-       id="linearGradient7468-0"
-       x1="29.999998"
-       y1="536.5"
-       x2="55.999996"
-       y2="536.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#PinkLoco"
-       id="radialGradient7460-2"
-       cx="42.999996"
-       cy="536.5"
-       fx="42.999996"
-       fy="536.5"
-       r="13"
-       gradientTransform="matrix(1,0,0,0.34615666,0,350.78695)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#PinkStroke"
-       id="linearGradient7468-6"
-       x1="29.999998"
-       y1="536.5"
-       x2="55.999996"
-       y2="536.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#BlackLoco"
-       id="radialGradient7460-0"
-       cx="42.999996"
-       cy="536.5"
-       fx="42.999996"
-       fy="536.5"
-       r="13"
-       gradientTransform="matrix(1,0,0,0.34615666,0,350.78695)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#BlackStroke"
-       id="linearGradient7468-7"
-       x1="29.999998"
-       y1="536.5"
-       x2="55.999996"
-       y2="536.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#WhiteFill"
-       id="radialGradient7460-02"
-       cx="42.999996"
-       cy="536.5"
-       fx="42.999996"
-       fy="536.5"
-       r="13"
-       gradientTransform="matrix(1,0,0,0.34615666,0,350.78695)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#WhiteStroke"
-       id="linearGradient7468-99"
-       x1="29.999998"
-       y1="536.5"
-       x2="55.999996"
-       y2="536.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
        xlink:href="#GreyLoco"
        id="radialGradient7460-37"
        cx="42.999996"
@@ -6414,15 +6254,6 @@
        style="display:inline"
        x="0"
        y="0"
-       xlink:href="#g2709"
-       id="use5133"
-       width="100%"
-       height="100%"
-       transform="rotate(73.952646,333.23996,432.31982)" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
        xlink:href="#use7773-3-7"
        id="use9636"
        width="100%"
@@ -6455,15 +6286,6 @@
        width="100%"
        height="100%"
        transform="rotate(53.459815,696.42395,1031.7237)" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#g2721"
-       id="use9648"
-       width="100%"
-       height="100%"
-       transform="translate(287.54017,-169.76779)" />
     <use
        style="display:inline"
        x="0"
@@ -8057,6 +7879,24 @@
        width="100%"
        height="100%"
        transform="rotate(-2.3495617,-6808.2737,-4344.7819)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g2693"
+       id="use2352"
+       width="100%"
+       height="100%"
+       transform="translate(287.54017,-274.76779)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g2693"
+       id="use2352-5"
+       width="100%"
+       height="100%"
+       transform="rotate(71.93443,384.59736,463.41574)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8245,152 +8085,6 @@
        height="100%"
        style="display:inline;fill:url(#radialGradient6971-1-3-7-2-8);fill-opacity:1;stroke:url(#linearGradient7450);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
     <g
-       id="g2725">
-      <use
-         style="fill:url(#radialGradient7460);fill-opacity:1;stroke:url(#linearGradient7468);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         height="100%"
-         width="100%"
-         transform="translate(2e-6,14.999963)"
-         id="use7452"
-         xlink:href="#path3226"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(1.0000004,0,0,0.99993957,55.753745,18.981889)"
-         id="use7703"
-         xlink:href="#use3037"
-         y="0"
-         x="0" />
-    </g>
-    <g
-       id="g2721">
-      <use
-         style="display:inline;fill:url(#radialGradient7460-9);fill-opacity:1;stroke:url(#linearGradient7468-1);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         height="100%"
-         width="100%"
-         transform="translate(2.8541667e-6,29.999963)"
-         id="use7452-7"
-         xlink:href="#path3226"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(1.0000004,0,0,0.99993958,55.753746,33.981883)"
-         id="use7703-7"
-         xlink:href="#use3037"
-         y="0"
-         x="0"
-         style="display:inline" />
-    </g>
-    <g
-       id="g2717">
-      <use
-         style="display:inline;fill:url(#radialGradient7460-3);fill-opacity:1;stroke:url(#linearGradient7468-9);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         height="100%"
-         width="100%"
-         transform="translate(2.8541667e-6,44.999963)"
-         id="use7452-77"
-         xlink:href="#path3226"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(1.0000004,0,0,0.99993958,55.753746,48.981884)"
-         id="use7703-5"
-         xlink:href="#use3037"
-         y="0"
-         x="0"
-         style="display:inline" />
-    </g>
-    <g
-       id="g2713">
-      <use
-         style="display:inline;fill:url(#radialGradient7460-4);fill-opacity:1;stroke:url(#linearGradient7468-4);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         height="100%"
-         width="100%"
-         transform="translate(2.8541667e-6,59.999963)"
-         id="use7452-5"
-         xlink:href="#path3226"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(1.0000004,0,0,0.99993958,55.753745,63.981883)"
-         id="use7703-9"
-         xlink:href="#use3037"
-         y="0"
-         x="0"
-         style="display:inline" />
-    </g>
-    <g
-       id="g2709">
-      <use
-         style="display:inline;fill:url(#radialGradient7460-8);fill-opacity:1;stroke:url(#linearGradient7468-0);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         height="100%"
-         width="100%"
-         transform="translate(2.8541667e-6,74.999963)"
-         id="use7452-6"
-         xlink:href="#path3226"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(1.0000004,0,0,0.99993958,55.753745,78.981883)"
-         id="use7703-78"
-         xlink:href="#use3037"
-         y="0"
-         x="0"
-         style="display:inline" />
-    </g>
-    <g
-       id="g2705">
-      <use
-         style="display:inline;fill:url(#radialGradient7460-2);fill-opacity:1;stroke:url(#linearGradient7468-6);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         height="100%"
-         width="100%"
-         transform="translate(2.8541667e-6,89.999963)"
-         id="use7452-1"
-         xlink:href="#path3226"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(1.0000004,0,0,0.99993958,55.753746,93.981884)"
-         id="use7703-53"
-         xlink:href="#use3037"
-         y="0"
-         x="0"
-         style="display:inline" />
-    </g>
-    <g
-       id="g2697">
-      <use
-         style="display:inline;fill:url(#radialGradient7460-02);fill-opacity:1;stroke:url(#linearGradient7468-99);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         height="100%"
-         width="100%"
-         transform="translate(2.8541667e-6,119.99996)"
-         id="use7452-0"
-         xlink:href="#path3226"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(1.0000004,0,0,0.99993958,55.753746,123.98188)"
-         id="use7703-3"
-         xlink:href="#use3037"
-         y="0"
-         x="0"
-         style="display:inline" />
-    </g>
-    <g
        id="g2693">
       <use
          style="display:inline;fill:url(#radialGradient7460-37);fill-opacity:1;stroke:url(#linearGradient7468-60);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -8410,26 +8104,6 @@
          y="0"
          x="0"
          style="display:inline" />
-    </g>
-    <g
-       id="g2701">
-      <use
-         style="display:inline;fill:url(#radialGradient7460-0);fill-opacity:1;stroke:url(#linearGradient7468-7);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         height="100%"
-         width="100%"
-         transform="translate(2.8541667e-6,104.99996)"
-         id="use7452-52"
-         xlink:href="#path3226"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="translate(55.942725,102.14602)"
-         id="use7771"
-         xlink:href="#use3039"
-         y="0"
-         x="0" />
     </g>
     <use
        x="0"
@@ -10419,7 +10093,7 @@
          id="tspan11018"
          x="288"
          y="228.12131"
-         style="stroke-width:0.26458332px"></tspan></text>
+         style="stroke-width:0.26458332px" /></text>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0400;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12.00000111, 6.00000055;stroke-dashoffset:0;stroke-opacity:1"
        d="m 372,158 c 0,0 33.62353,104.82017 112,172 28,24 4.00001,87.99999 4.00001,87.99999"
