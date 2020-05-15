@@ -83,7 +83,12 @@ $(SVG_TICKETS): cornwall_tickets.svg | $(TMP)
 	sed -i '/inkscape:label="Page $(patsubst $(TMP)/cornwall_tickets.page%.svg,%,$@)"/{N;N;N;/style=/{s/style="display:none"/style="display:inline"/}}' $@.tmp
 	mv $@.tmp $@
 
-$(PNG_TICKETS): %-$(DPI)dpi.png: %.svg $(TMP)/ticket_background.png
+# This symlink is required due to links in the ticket SVG which we have
+# intermediate versions of in the temp directory.
+$(TMP)/$(TMP):
+	ln -s . $(TMP)/$(TMP)
+
+$(PNG_TICKETS): %-$(DPI)dpi.png: %.svg $(TMP)/ticket_background.png $(TMP)/$(TMP)
 	rm -f $@
 	$(INKSCAPE) $< -o $@-tmp.png --export-dpi=$(DPI)
 	mv $@-tmp.png $@
