@@ -1,9 +1,23 @@
 
-Cornwall Train Ticket Board Game
-================================
+Cornwall & Isles of Scilly Train Ticket Board Game
+==================================================
 
-Copyright © 2019 James Hogan <james@jhogan.uk>
-Contains Ordnance Survey data © Crown copyright and database right
+A custom board game map and train ticket cards for Cornwall & the Isles of
+Scilly (UK), inspired by the Ticket to Ride Board Games published by Days of
+Wonder (with whom I am not affiliated).
+
+
+License
+-------
+
+All content is released under the Creative Commons Attribution-Share Alike 3.0
+Unported license (see LICENSE.md) unless otherwise stated (see Sources below).
+
+ - Copyright © 2020 James Hogan <james@jhogan.uk>
+ - Background maps contain Ordnance Survey data © Crown copyright and database
+   right
+ - Original Scilly flag by Steve Duncan
+ - Original locomotive by Panther
 
 
 Prerequisites
@@ -70,53 +84,69 @@ Sources
 I've tried to use free sources wherever possible. The originals can be found in
 the originals/ directory. Modifications can be found in the modified/ directory.
 
- - The graphics on the sea are taken from publicdomainvectors.org in SVG form
-   and are claimed to be in the public domain.
+The following table lists all the sources, more details below:
 
-   The only changes are colour changes.
+Source	Description	License		Attribution
+[1]	Puffin		PD		Aki G. Karlsson
+[2]	Dolphin		PD		cactus cowboy
+[3]	Lighthouse	PD		'The History of Plymouth', Richard Worth, 1890.
+[4]	Ship		PD
+[5]	Cornwall flag	PD		Jon Harald Søby
+[6]	Devon flag	PD		Greentubing
+[7]	USA flag	PD		US Federal Government
+[8]	Cornwall map	CC BY-SA 3.0	Contains Ordnance Survey data © Crown copyright and database right
+[9]	Scilly map	CC BY-SA 3.0	Contains Ordnance Survey data © Crown copyright and database right
+[10]	Scilly flag	CC BY-SA 3.0	Steve Duncan
+[11]	Locomotive	CC BY-SA 3.0	Panther
+[12]	Kaushan Font	OFL
 
- - The maps of Cornwall [1] and the Isles of Scilly [2] are taken from
-   wikipedia, and are derived from Ordinance Survey OpenData.
-
-   Contains Ordnance Survey data © Crown copyright and database right
-
-   They have been simplified using Inkscape and the colours have been altered.
-   They are then used as the background maps for the board and the destination
-   tickets.
-
- - The flags of Cornwall [3], Devon [4], the the United
-   States of America [5] are taken from wikipedia, and are placed in the public
+ - 1-4: The graphics on the sea ([1], [2], [3], [4]) are taken from
+   publicdomainvectors.org in SVG form and are claimed to be in the public
    domain.
+
+   The only changes are colour changes to the lighthouse ([3]) and the ship
+   ([4]).
+
+   [1] https://publicdomainvectors.org/en/free-clipart/Puffin-bird-vector-illustration/31686.html
+   [2] https://publicdomainvectors.org/en/free-clipart/Dolphin-smiling/68665.html
+   [3] https://publicdomainvectors.org/en/free-clipart/Old-lighthouse/69935.html
+   [4] https://publicdomainvectors.org/en/free-clipart/Bark-ship-vector-drawing/14591.html
+
+ - 5-7: The flags of Cornwall [5], Devon [6], and the United States of America
+   [7] are taken from wikipedia, and are placed in the public domain.
 
    They have been modified to make them circular.
    They are then used as the icons for the towns and cities on the board and the
    destination tickets.
 
- - The flag of the Isles of Scilly [6] was taken from wikipedia, and is licensed
-   under the Creative Commons Attribution-Share Alike 2.0 UK: England & Wales
-   license.
+   [5] https://en.wikipedia.org/wiki/File:Flag_of_Cornwall.svg
+   [6] https://en.wikipedia.org/wiki/File:Flag_of_Devon.svg
+   [7] https://en.wikipedia.org/wiki/File:Flag_of_the_United_States.svg
 
-   It has been modified to make it circular, with the stars moved so they remain
-   visible.
+ - 8-11: The map of Cornwall [8], the map of the Isles of Scilly [9], the flag
+   of the Isles of Scilly [10] and the image of a locomotive [11] are taken
+   from wikipedia, and are licensed under the Creative Commons
+   Attribution-Share Alike 3.0 Unported license.
+
+   The maps have been simplified using Inkscape and the colours have been
+   altered. They are then used as the background maps for the board and the
+   destination tickets.
+
+   The flag of the Isles of Scilly has been modified to make it circular, with
+   the stars moved so they remain visible.
    It is then used as the icons for the islands on the board and the destination
    tickets.
 
- - The image of a locomotive [7] was taken from wikipedia, and is licensed under
-   the Creative Commons Attribution-Share Alike 3.0 Unported, and 2.5 Generic,
-   2.0 Generic, & 1.0 Generic licenses.
-
-   The outline has been traced.
+   The outline of the locomotive has been traced.
    It is then used as the locomotives on ferry routes on the board, and in the
    table of scores for different route lengths on the board.
 
- - Most of the text uses the "Kaushan Script Regular" [8] font, released under
-   the OFL (SIL Open Font License).
+   [8] https://en.wikipedia.org/wiki/File:Cornwall_UK_district_map_(blank).svg
+   [9] https://en.wikipedia.org/wiki/File:Isles_of_Scilly_UK_location_map.svg
+   [10] https://en.wikipedia.org/wiki/File:ScillonianCross.svg
+   [11] https://en.wikipedia.org/wiki/File:Steam_locomotive_scheme_new.png
 
-[1] https://en.wikipedia.org/wiki/File:Cornwall_UK_district_map_(blank).svg
-[2] https://en.wikipedia.org/wiki/File:Isles_of_Scilly_UK_location_map.svg
-[3] https://en.wikipedia.org/wiki/File:Flag_of_Cornwall.svg
-[4] https://en.wikipedia.org/wiki/File:Flag_of_Devon.svg
-[5] https://en.wikipedia.org/wiki/File:Flag_of_the_United_States.svg
-[6] https://en.wikipedia.org/wiki/File:ScillonianCross.svg
-[7] https://en.wikipedia.org/wiki/File:Steam_locomotive_scheme_new.png
-[8] https://fontlibrary.org/en/font/kaushan-script
+ - 12: Most of the text uses the "Kaushan Script Regular" [12] font, released
+   under the OFL (SIL Open Font License).
+
+   [12] https://fontlibrary.org/en/font/kaushan-script
