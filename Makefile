@@ -58,13 +58,13 @@ $(OUTDIRS):
 
 $(INTERMEDIATES): $(TMP)/%.png: %.svg | $(TMP)
 	rm -f $@
-	$(INKSCAPE) $< --export-png=$@.tmp --export-dpi=300
-	mv $@.tmp $@
+	$(INKSCAPE) $< -o $@-tmp.png --export-dpi=300
+	mv $@-tmp.png $@
 
 $(PNG_OUTPUTS): $(OUT)/Cornwall-%dpi.png: Cornwall.svg | $(OUT)
 	rm -f $@
-	$(INKSCAPE) $< --export-png=$@.tmp --export-dpi=$(@:$(OUT)/Cornwall-%dpi.png=%)
-	mv $@.tmp $@
+	$(INKSCAPE) $< -o $@-tmp.png --export-dpi=$(@:$(OUT)/Cornwall-%dpi.png=%)
+	mv $@-tmp.png $@
 
 $(PDF_OUTPUTS): %.pdf: %.png
 	rm -f $@
@@ -85,8 +85,8 @@ $(SVG_TICKETS): cornwall_tickets.svg | $(TMP)
 
 $(PNG_TICKETS): %-$(DPI)dpi.png: %.svg $(TMP)/ticket_background.png
 	rm -f $@
-	$(INKSCAPE) $< --export-png=$@.tmp --export-dpi=$(DPI)
-	mv $@.tmp $@
+	$(INKSCAPE) $< -o $@-tmp.png --export-dpi=$(DPI)
+	mv $@-tmp.png $@
 
 $(TICKET_OUTPUTS): $(PNG_TICKETS) | $(OUT)
 	rm -f $@
