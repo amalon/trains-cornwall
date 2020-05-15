@@ -31,11 +31,18 @@ You need the following fonts installed:
  - "Anton" from Google:
    https://fonts.google.com/specimen/Anton
 
-Install Inkscape and ensure it is in the $PATH.
+Inkscape is required by the Makefile to convert the SVG files to PNG. Install
+it (at least version 1) and ensure it is in the $PATH:
 
-Install imagemagick and ensure the "convert" utility is in the $PATH.
+  https://inkscape.org/
 
-Install pdfposter and ensure pdfposter is in the $PATH:
+Imagemagick is required by the Makefile to convert the PNG to a PDF. Install it
+and ensure the "convert" utility is in the $PATH:
+
+  https://www.imagemagick.org/
+
+Pdfposter is required by the Makefile to tile the large PDF onto multiple
+pages. Install it and ensure pdfposter is in the $PATH:
 
   https://gitlab.com/pdftools/pdfposter.git
 
