@@ -23,9 +23,13 @@ Unported license (see LICENSE.md) unless otherwise stated (see Sources below).
 Prerequisites
 -------------
 
-You need the "Kaushan Script Regular" font installed from fontlibrary.org:
+You need the following fonts installed:
 
-  https://fontlibrary.org/en/font/kaushan-script
+ - "Kaushan Script Regular" from fontlibrary.org:
+   https://fontlibrary.org/en/font/kaushan-script
+
+ - "Anton" from Google:
+   https://fonts.google.com/specimen/Anton
 
 Install Inkscape and ensure it is in the $PATH.
 
@@ -98,7 +102,8 @@ Source	Description	License		Attribution
 [9]	Scilly map	CC BY-SA 3.0	Contains Ordnance Survey data © Crown copyright and database right
 [10]	Scilly flag	CC BY-SA 3.0	Steve Duncan
 [11]	Locomotive	CC BY-SA 3.0	Panther
-[12]	Kaushan Font	OFL
+[12]	Kaushan Font	OFL		Pablo Impallari
+[13]	Anton Font	OFL		Vernon Adams
 
  - 1-4: The graphics on the sea ([1], [2], [3], [4]) are taken from
    publicdomainvectors.org in SVG form and are claimed to be in the public
@@ -146,7 +151,9 @@ Source	Description	License		Attribution
    [10] https://en.wikipedia.org/wiki/File:ScillonianCross.svg
    [11] https://en.wikipedia.org/wiki/File:Steam_locomotive_scheme_new.png
 
- - 12: Most of the text uses the "Kaushan Script Regular" [12] font, released
-   under the OFL (SIL Open Font License).
+ - 12-13: Most of the text uses the "Kaushan Script Regular" [12] font, but the
+   scores on the tickets use the "Anton" [13] font. Both are released under the
+   OFL (SIL Open Font License).
 
    [12] https://fontlibrary.org/en/font/kaushan-script
+   [13] https://fonts.google.com/specimen/Anton
