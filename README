@@ -41,10 +41,12 @@ and ensure the "convert" utility is in the $PATH:
 
   https://www.imagemagick.org/
 
-Pdfposter is required by the Makefile to tile the large PDF onto multiple
-pages. Install it and ensure pdfposter is in the $PATH:
+Pdfposter and TeX Live (pdflatex) are required by the Makefile to tile the
+large PDF onto multiple pages and add cropping marks. Install them and ensure
+pdfposter and pdflatex are in the $PATH:
 
   https://gitlab.com/pdftools/pdfposter.git
+  https://tug.org/texlive/
 
 
 Building

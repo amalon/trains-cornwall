@@ -1,6 +1,7 @@
 INKSCAPE	:= inkscape
 CONVERT		:= convert
 PDFPOSTER	:= pdfposter
+PDFLATEX	:= pdflatex
 
 TMP		:= intermediates
 OUT		:= outputs
@@ -13,7 +14,10 @@ OUTDIRS		+= $(OUT)
 
 PNG_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi.png)
 PDF_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi.pdf)
-TILED_OUTPUTS	+= $(foreach pdf,$(PDF_OUTPUTS),$(pdf:.pdf=-a4.pdf))
+TILED_NOMARG	+= $(foreach dpi,$(DPIS),$(TMP)/Cornwall-$(dpi)dpi-a4-tight.pdf)
+TILED_TEX	+= $(foreach dpi,$(DPIS),$(TMP)/Cornwall-$(dpi)dpi-a4.tex)
+TILED_TMPOUT	+= $(foreach dpi,$(DPIS),$(TMP)/Cornwall-$(dpi)dpi-a4.pdf)
+TILED_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi-a4.pdf)
 
 BOARD_OUTPUTS	:= $(TILED_OUTPUTS)
 BOARD_DEFAULT	:= $(OUT)/Cornwall-$(DPI)dpi-a4.pdf
@@ -71,10 +75,21 @@ $(PDF_OUTPUTS): %.pdf: %.png
 	$(CONVERT) $< $@.tmp.pdf
 	mv $@.tmp.pdf $@
 
-$(TILED_OUTPUTS): %-a4.pdf: %.pdf
+$(TILED_TEX): %-a4.tex: margins-a4.tex
 	rm -f $@
-	$(PDFPOSTER) -m27x19cm -s1 $< $@.tmp
+	sed 's/_SRC_/$(subst /,\/,$(@:%.tex=%-tight.pdf))/' $< > $@.tmp
 	mv $@.tmp $@
+
+$(TILED_NOMARG): $(TMP)/%-a4-tight.pdf: $(OUT)/%.pdf
+	rm -f $@
+	$(PDFPOSTER) -m263.01x175.35mm -s1 $< $@.tmp
+	mv $@.tmp $@
+
+$(TILED_TMPOUT): %-a4.pdf: %-a4.tex %-a4-tight.pdf
+	$(PDFLATEX) -output-directory=$(TMP) $<
+
+$(TILED_OUTPUTS): $(OUT)/%: $(TMP)/%
+	cp $< $@
 
 $(SVG_TICKETS): cornwall_tickets.svg | $(TMP)
 	rm -f $@

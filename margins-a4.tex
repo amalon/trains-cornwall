@@ -1,0 +1,18 @@
+% This adds cropping marks and margins, based on:
+% https://leolca.blogspot.com/2010/06/pdfposter.html
+\documentclass[landscape]{article}
+% Support for PDF inclusion
+\usepackage[final]{pdfpages}
+% Support for PDF scaling
+\usepackage{graphicx}
+\usepackage[dvips=false,pdftex=false,vtex=false]{geometry}
+\geometry{
+   paperwidth=263.01mm,
+   paperheight=175.35mm,
+   nohead
+}
+\usepackage[cam,a4,center,dvips]{crop}
+\begin{document}
+% Globals: include all pages, don't auto scale
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{_SRC_}
+\end{document}
