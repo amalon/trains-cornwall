@@ -10,8 +10,11 @@ Wonder (with whom I am not affiliated).
 License
 -------
 
-All content is released under the Creative Commons Attribution-Share Alike 3.0
-Unported license (see LICENSE.md) unless otherwise stated (see Sources below).
+The Makefile is released under the GNU General Public License version 2.
+
+All other content is released under the Creative Commons Attribution-Share
+Alike 3.0 Unported license (see LICENSE.md) unless otherwise stated (see
+Sources below).
 
  - Copyright © 2020 James Hogan <james@jhogan.uk>
  - Background maps contain Ordnance Survey data © Crown copyright and database
