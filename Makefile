@@ -12,6 +12,7 @@ DPI		?= 300
 OUTDIRS		+= $(TMP)
 OUTDIRS		+= $(OUT)
 
+BOARD_SVG	:= Cornwall.svg
 PNG_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi.png)
 PDF_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi.pdf)
 TILED_NOMARG	+= $(foreach dpi,$(DPIS),$(TMP)/Cornwall-$(dpi)dpi-a4-tight.pdf)
@@ -35,6 +36,23 @@ TICKET_OUTPUTS	:= $(OUT)/cornwall_tickets-$(DPI)dpi.pdf
 
 OUTPUTS		+= $(BOARD_OUTPUTS)
 OUTPUTS		+= $(TICKET_OUTPUTS)
+
+
+# Perform some arithmetic using bc to calculate tile sizes
+bc		= $(shell echo "$(1)" | bc)
+bc_fp		= $(call bc,scale=10; $(1))
+# Poster size can be taken straight from SVG
+POSTER_WIDTH	:= $(shell grep -m1 width= "$(BOARD_SVG)" | sed 's/^.*"\(.*\)mm".*$$/\1/')
+POSTER_HEIGHT	:= $(shell grep -m1 height= "$(BOARD_SVG)" | sed 's/^.*"\(.*\)mm".*$$/\1/')
+# Tile based on size of A4 (landscape) subtracting margins
+MAX_TILE_WIDTH	= (297-10-15)
+MAX_TILE_HEIGHT	= (210-10-10)
+TILES_X		:= $(call bc,($(POSTER_WIDTH)+$(MAX_TILE_WIDTH)-1) / $(MAX_TILE_WIDTH))
+TILES_Y		:= $(call bc,($(POSTER_HEIGHT)+$(MAX_TILE_HEIGHT)-1) / $(MAX_TILE_HEIGHT))
+# Find actual tile size
+TILE_WIDTH	:= $(call bc_fp,$(POSTER_WIDTH) / $(TILES_X))
+TILE_HEIGHT	:= $(call bc_fp,$(POSTER_HEIGHT) / $(TILES_Y))
+
 
 .PHONY: default
 default: board tickets
@@ -65,7 +83,7 @@ $(INTERMEDIATES): $(TMP)/%.png: %.svg | $(TMP)
 	$(INKSCAPE) $< -o $@-tmp.png --export-dpi=300
 	mv $@-tmp.png $@
 
-$(PNG_OUTPUTS): $(OUT)/Cornwall-%dpi.png: Cornwall.svg | $(OUT)
+$(PNG_OUTPUTS): $(OUT)/Cornwall-%dpi.png: $(BOARD_SVG) | $(OUT)
 	rm -f $@
 	$(INKSCAPE) $< -o $@-tmp.png --export-dpi=$(@:$(OUT)/Cornwall-%dpi.png=%)
 	mv $@-tmp.png $@
@@ -77,12 +95,14 @@ $(PDF_OUTPUTS): %.pdf: %.png
 
 $(TILED_TEX): %-a4.tex: margins-a4.tex
 	rm -f $@
-	sed 's/_SRC_/$(subst /,\/,$(@:%.tex=%-tight.pdf))/' $< > $@.tmp
+	sed -e 's/_TILE_WIDTH_/$(TILE_WIDTH)/' \
+	    -e 's/_TILE_HEIGHT_/$(TILE_HEIGHT)/' \
+	    -e 's/_SRC_/$(subst /,\/,$(@:%.tex=%-tight.pdf))/' $< > $@.tmp
 	mv $@.tmp $@
 
 $(TILED_NOMARG): $(TMP)/%-a4-tight.pdf: $(OUT)/%.pdf
 	rm -f $@
-	$(PDFPOSTER) -m263.01x175.35mm -s1 $< $@.tmp
+	$(PDFPOSTER) -m$(TILE_WIDTH)x$(TILE_HEIGHT)mm -p$(POSTER_WIDTH)x$(POSTER_HEIGHT)mm $< $@.tmp
 	mv $@.tmp $@
 
 $(TILED_TMPOUT): %-a4.pdf: %-a4.tex %-a4-tight.pdf
