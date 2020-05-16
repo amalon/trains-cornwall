@@ -9,11 +9,14 @@ OUT		:= outputs
 DPIS		:= 75 150 300
 DPI		?= 300
 
+THUMB_DPI	:= 25
+
 OUTDIRS		+= $(TMP)
 OUTDIRS		+= $(OUT)
 
 BOARD_SVG	:= Cornwall.svg
-PNG_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi.png)
+PNG_OUTPUTS	+= $(foreach dpi,$(DPIS) $(THUMB_DPI),$(OUT)/Cornwall-$(dpi)dpi.png)
+JPG_OUTPUTS	+= $(foreach dpi,$(THUMB_DPI),$(OUT)/Cornwall-$(dpi)dpi.jpg)
 PDF_OUTPUTS	+= $(foreach dpi,$(DPIS),$(OUT)/Cornwall-$(dpi)dpi.pdf)
 TILED_NOMARG	+= $(foreach dpi,$(DPIS),$(TMP)/Cornwall-$(dpi)dpi-a4-tight.pdf)
 TILED_TEX	+= $(foreach dpi,$(DPIS),$(TMP)/Cornwall-$(dpi)dpi-a4.tex)
@@ -58,7 +61,7 @@ TILE_HEIGHT	:= $(call bc_fp,$(POSTER_HEIGHT) / $(TILES_Y))
 default: board tickets
 
 .PHONY: all
-all: prepare $(OUTPUTS)
+all: prepare $(OUTPUTS) $(JPG_OUTPUTS)
 
 .PHONY: board
 board: $(BOARD_DEFAULT)
@@ -87,6 +90,11 @@ $(PNG_OUTPUTS): $(OUT)/Cornwall-%dpi.png: $(BOARD_SVG) | $(OUT)
 	rm -f $@
 	$(INKSCAPE) $< -o $@-tmp.png --export-dpi=$(@:$(OUT)/Cornwall-%dpi.png=%)
 	mv $@-tmp.png $@
+
+$(JPG_OUTPUTS): %.jpg: %.png
+	rm -f $@
+	$(CONVERT) -quality 80 $< $@.tmp.jpg
+	mv $@.tmp.jpg $@
 
 $(PDF_OUTPUTS): %.pdf: %.png
 	rm -f $@
@@ -136,6 +144,7 @@ $(TICKET_OUTPUTS): $(PNG_TICKETS) | $(OUT)
 clean:
 	rm -f $(INTERMEDIATES)
 	rm -f $(PNG_OUTPUTS)
+	rm -f $(JPG_OUTPUTS)
 	rm -f $(PDF_OUTPUTS)
 	rm -f $(TILED_NOMARG)
 	rm -f $(TILED_TEX)
