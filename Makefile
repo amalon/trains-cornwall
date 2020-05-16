@@ -137,10 +137,16 @@ clean:
 	rm -f $(INTERMEDIATES)
 	rm -f $(PNG_OUTPUTS)
 	rm -f $(PDF_OUTPUTS)
+	rm -f $(TILED_NOMARG)
+	rm -f $(TILED_TEX)
+	rm -f $(TILED_TMPOUT)
 	rm -f $(TILED_OUTPUTS)
 	rm -f $(SVG_TICKETS)
 	rm -f $(PNG_TICKETS)
 	rm -f $(OUTPUTS)
+	rm -f $(TMP)/$(TMP)
 	rm -f $(TMP)/*.tmp
+	rm -f $(TMP)/*.aux
+	rm -f $(TMP)/*.log
 	rm -f $(OUT)/*.tmp
 	rmdir $(OUTDIRS) || true
