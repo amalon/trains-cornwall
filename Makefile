@@ -122,8 +122,8 @@ $(TILED_OUTPUTS): $(OUT)/%: $(TMP)/%
 $(SVG_TICKETS): cornwall_tickets.svg | $(TMP)
 	rm -f $@
 	cp cornwall_tickets.svg $@.tmp
-	sed -i '/inkscape:label="Page [0-9]\+"/{N;N;N;/style=/{s/style="display:inline"/style="display:none"/}}' $@.tmp
-	sed -i '/inkscape:label="Page $(patsubst $(TMP)/cornwall_tickets.page%.svg,%,$@)"/{N;N;N;/style=/{s/style="display:none"/style="display:inline"/}}' $@.tmp
+	sed -i '/\(inkscape:label="Page [0-9]\+"\|style="display:inline"\)/{N;N;N;/inkscape:label="Page [0-9]\+"/{/style=/{s/style="display:inline"/style="display:none"/}}}' $@.tmp
+	sed -i '/\(inkscape:label="Page $(patsubst $(TMP)/cornwall_tickets.page%.svg,%,$@)"\|style="display:none"\)/{N;N;N;/inkscape:label="Page $(patsubst $(TMP)/cornwall_tickets.page%.svg,%,$@)"/{/style=/{s/style="display:none"/style="display:inline"/}}}' $@.tmp
 	mv $@.tmp $@
 
 # This symlink is required due to links in the ticket SVG which we have
