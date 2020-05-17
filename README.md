@@ -73,7 +73,7 @@ target:
 $ make prepare
 ```
 
-Other `Makefile` targets are as follows (where **XX** is the DPI, either 75,
+Other `Makefile` targets are as follows (where XX is the DPI, either 75,
 150, or 300):
 
  - `all`
@@ -96,15 +96,15 @@ Other `Makefile` targets are as follows (where **XX** is the DPI, either 75,
 
    PDF files of the above PNG files and corresponding A4 tiles for printing.
 
- - `outputs/Cornwall-`**`XX`**`dpi.png`
+ - `outputs/Cornwall-XXdpi.png`
 
    A PNG of the board at the specified DPI.
 
- - `outputs/Cornwall-`**`XX`**`dpi.pdf`
+ - `outputs/Cornwall-XXdpi.pdf`
 
    A single page PDF of the board at the specified DPI.
 
- - `outputs/Cornwall-`**`XX`**`dpi-a4.pdf`
+ - `outputs/Cornwall-XXdpi-a4.pdf`
 
    A tiled multipage PDF of the board at the specified DPI, for A4 printing.
 
