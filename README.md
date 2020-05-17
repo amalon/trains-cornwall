@@ -148,7 +148,7 @@ Source				| License		| Attribution
    [Lighthouse]: https://publicdomainvectors.org/en/free-clipart/Old-lighthouse/69935.html
    [Ship]: https://publicdomainvectors.org/en/free-clipart/Bark-ship-vector-drawing/14591.html
 
- - The [Flag of Cornwall], [Flag of Devon], and [Flag of USA]) are taken from
+ - The [Flag of Cornwall], [Flag of Devon], and [Flag of USA] are taken from
    [Wikipedia], and are placed in the public domain.
 
    They have been modified to make them circular.
