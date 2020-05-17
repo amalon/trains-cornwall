@@ -26,32 +26,34 @@ Sources below).
 Prerequisites
 -------------
 
-You need the following fonts installed:
+You need the following fonts installed to open or build the designs:
 
- - "*Kaushan Script Regular*" from fontlibrary.org:
+ - [Kaushan Script Regular] (fontlibrary.org)
 
-   https://fontlibrary.org/en/font/kaushan-script
+ - [Anton] (fonts.google.com)
 
- - "*Anton*" from Google:
+You need the following software packages installed to build the designs on
+Linux:
 
-   https://fonts.google.com/specimen/Anton
+ - [Inkscape](https://inkscape.org/) (at least version 1) is required by the
+   `Makefile` to convert the SVG files to PNG.
 
-Inkscape is required by the `Makefile` to convert the SVG files to PNG. Install
-it (at least version 1) and ensure it is in the `$PATH`:
+   Ensure `inkscape` is in your `$PATH`.
 
-  https://inkscape.org/
+ - [Imagemagick](https://www.imagemagick.org/) (specifically the "`convert`"
+   utility) is required by the `Makefile` to convert the PNG to a PDF.
 
-Imagemagick is required by the `Makefile` to convert the PNG to a PDF. Install
-it and ensure the "`convert`" utility is in the `$PATH`:
+   Ensure `convert` is in the `$PATH`.
 
-  https://www.imagemagick.org/
+ - [pdfposter](https://gitlab.com/pdftools/pdfposter.git) is required by the
+   `Makefile` to tile the large PDF onto multiple pages.
 
-Pdfposter and TeX Live (`pdflatex`) are required by the `Makefile` to tile the
-large PDF onto multiple pages and add cropping marks. Install them and ensure
-`pdfposter` and `pdflatex` are in the `$PATH`:
+   Ensure `pdfposter` is in the `$PATH`.
 
-  https://gitlab.com/pdftools/pdfposter.git
-  https://tug.org/texlive/
+ - [TeX Live](https://tug.org/texlive/) (specifically `pdflatex`) is required
+   by the `Makefile` to add margins and cropping marks to the tiled PDF.
+
+   Ensure `pdflatex` is in the `$PATH`.
 
 
 Building
