@@ -6,6 +6,8 @@ A custom board game map and train ticket cards for Cornwall & the Isles of
 Scilly (UK), inspired by the *Ticket to Ride* Board Games published by *Days of
 Wonder* (with whom I am not affiliated).
 
+![The game board](docs/thumbnail.jpg)
+
 
 Download
 --------

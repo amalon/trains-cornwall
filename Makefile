@@ -10,6 +10,7 @@ DPIS		:= 75 150 300
 DPI		?= 300
 
 THUMB_DPI	:= 25
+THUMB		:= docs/thumbnail.jpg
 
 OUTDIRS		+= $(TMP)
 OUTDIRS		+= $(OUT)
@@ -77,6 +78,11 @@ pdf: $(PDF_OUTPUTS) $(TILED_OUTPUTS)
 
 .PHONY: prepare
 prepare: $(INTERMEDIATES)
+
+.PHONY: thumb
+thumb: $(THUMB)
+$(THUMB): $(OUT)/Cornwall-$(THUMB_DPI)dpi.jpg
+	cp $< $@
 
 $(OUTDIRS):
 	mkdir $@
