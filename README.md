@@ -7,6 +7,46 @@ Scilly (UK), inspired by the *Ticket to Ride* Board Games published by *Days of
 Wonder* (with whom I am not affiliated).
 
 
+Download
+--------
+
+### Game Board
+
+For best quality printing it is recommended a 300 DPI version of the board is
+used, but smaller versions are also available for viewing or other purposes:
+
+Description         | 300 DPI (24MB)              | 150 DPI (9MB)               | 75 DPI (3MB)              | 25 DPI (<1MB)
+--------------------|-----------------------------|-----------------------------|---------------------------|--------------------------
+Board 1 large sheet | [PDF][300pdf] [PNG][300png] | [PDF][150pdf] [PNG][150png] | [PDF][75pdf] [PNG][75png] | [JPG][25jpg] [PNG][25png]
+Board 3x3 A4 sheets | [PDF][300a4pdf]             | [PDF][150a4pdf]             | [PDF][75a4pdf]            |
+
+[300pdf]:   https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-300dpi.pdf
+[300png]:   https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-300dpi.png
+[150pdf]:   https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-150dpi.pdf
+[150png]:   https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-150dpi.png
+[75pdf]:    https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-75dpi.pdf
+[75png]:    https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-75dpi.png
+[25jpg]:    https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-25dpi.jpg
+[25png]:    https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-25dpi.png
+
+[300a4pdf]: https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-300dpi-a4.pdf
+[150a4pdf]: https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-150dpi-a4.pdf
+[75a4pdf]:  https://github.com/amalon/trains-cornwall/releases/download/v0.1/Cornwall-75dpi-a4.pdf
+
+### Destination Tickets
+
+Only one 300 DPI version of the destination tickets is currently available:
+
+Description                     | 300 DPI (18MB)
+--------------------------------|----------------
+Destination tickets 6 A4 sheets | [PDF][t300pdf]
+
+[t300pdf]: https://github.com/amalon/trains-cornwall/releases/download/v0.1/cornwall-tickets-300dpi.pdf
+
+The latest version of the board and ticket files can be downloaded from
+[GitHub](https://github.com/amalon/trains-cornwall/releases/latest).
+
+
 License
 -------
 
