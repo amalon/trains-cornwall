@@ -12,6 +12,10 @@ Wonder* (with whom I am not affiliated).
 Download
 --------
 
+Links to the board and ticket files can be found below (the latest versions can
+be downloaded from
+[GitHub](https://github.com/amalon/trains-cornwall/releases/latest)).
+
 ### Game Board
 
 For best quality printing it is recommended a 300 DPI version of the board is
@@ -44,9 +48,6 @@ Description                     | 300 DPI (18MB)
 Destination tickets 6 A4 sheets | [PDF][t300pdf]
 
 [t300pdf]: https://github.com/amalon/trains-cornwall/releases/download/v0.1/cornwall-tickets-300dpi.pdf
-
-The latest version of the board and ticket files can be downloaded from
-[GitHub](https://github.com/amalon/trains-cornwall/releases/latest).
 
 
 License
